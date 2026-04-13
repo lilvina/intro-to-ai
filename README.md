@@ -24,6 +24,8 @@ Build a working AI-powered CLI application.
 - OpenAI API
 - Requests
 
+Also, make sure to add a .gitignore file for your .env so your API keys won't be exposed to the public!
+
 ## How to Run
 
 ```bash
